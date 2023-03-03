@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap"
+        rel="stylesheet"
+    />
+    <title>Components Layouts Patterns</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            font-size: 62.50%;
+        }
+
+        body {
+            font-family: "Inter", sans-serif;
+            color: #343a40;
+            line-height: 1;
+        }
+
+        p {
+            text-align: center;
+            font-size: 2.4rem;
+            font-weight: 500;
+            margin-bottom: 1.6rem;
+        }
+        .container {
+            max-width: 1200px;
+            box-shadow: 0 0 32px rgb(0 0 0 / 10%);
+            padding: 3.6rem;
+            height: 40rem;
+            width: 30rem;
+            margin: 30rem auto;
+            border-top: 4px solid #087f5b;
+        }
+
+        .component-list {
+            display: grid;
+            grid-template-columns: 1fr;
+            text-align: center;
+            gap: 2.8rem;
+            list-style-type: none;
+            margin-top: 4rem;
+        }
+
+        .component-list a {
+            text-decoration: none;
+            font-size: 1.8rem;
+            color: #000;
+        }
+
+        .item:hover, .item:active {
+            font-weight: 500;
+            border-radius: 12px;
+            padding: 0.75rem;
+            background-color: #087f5b;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <p>Component Menu</p>
+        <ul class="component-list">
+            <li><a class="item" href="components/01-accordion.html" target="_blank">Accordion</a></li>
+            <li><a class="item" href="components/02-carousel.html" target="_blank">Carousel</a></li>
+            <li><a class="item" href="components/03-table.html" target="_blank">Table</a></li>
+            <li><a class="item" href="components/04-pagination.html" target="_blank">Pagination</a></li>
+            <li><a class="item" href="components/05-hero.html" target="_blank">Hero</a></li>
+            <li><a class="item" href="components/06-app-layout.html" target="_blank">App Layout</a></li>
+        </ul>
+    </div>
+</body>
+</html>
