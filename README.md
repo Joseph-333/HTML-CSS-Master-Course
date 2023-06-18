@@ -5,31 +5,31 @@ This course covered modern HTML5, CSS3 and Web Design.
 ### Section 1 HTML Fundamentals
 **Source Code**: https://github.com/Joseph-333/HTML-CSS-Master-Course/blob/main/Section%201%20HTML%20Fundamentals/index.html
 
-**Project Link**: https://joseph-333.github.io/HTML-Fundamentals-Assignment/
+**Project Link**: https://storied-mochi-ac4984.netlify.app
 
 ***
 ### Section 2 CSS Fundamentals
 **Source Code**: https://github.com/Joseph-333/HTML-CSS-Master-Course/blob/main/Section%202%20CSS%20Fundamentals/index.html
 
-**Project Link**: https://joseph-333.github.io/CSS-Fundamentals-Assignment/
+**Project Link**: https://bright-kulfi-cb58fc.netlify.app
 
 ***
 ### Section 3 Layouts: Floats, Flexbox, andd CSS Grid Fundamentals
 **Source Code**: https://github.com/Joseph-333/HTML-CSS-Master-Course/tree/main/Section%203%20Layouts%20Floats%20Flexbox%20CSS%20Grid%20Fundamentals
 
-**Project Link**: https://joseph-333.github.io/CSS-Layout-Fundamentals-Assignment/
+**Project Link**: https://soft-tiramisu-64aee3.netlify.app
 
 ***
 ### Section 4 Web Design Rules and Framework
 **Source Code**: https://github.com/Joseph-333/HTML-CSS-Master-Course/tree/main/Section%204%20Web%20Design%20Rules%20and%20Framework
 
-**Project Link**: https://joseph-333.github.io/Web-Design-and-Framework/
+**Project Link**: https://frabjous-cheesecake-a1e67f.netlify.app
 
 ***
 ### Section 5 Components and Layouts Patterns
 **Source Code**: https://github.com/Joseph-333/HTML-CSS-Master-Course/tree/main/Section%205%20Components%20and%20Layout%20Patterns
 
-**Project Link**: https://joseph-333.github.io/Components-Layouts-Patterns/
+**Project Link**: https://luminous-douhua-4ae794.netlify.app
 
 ***
 ### Section 6 Omnifood Desktop Version
