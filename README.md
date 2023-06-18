@@ -35,13 +35,13 @@ This course covered modern HTML5, CSS3 and Web Design.
 ### Section 6 Omnifood Desktop Version
 **Source Code**: https://github.com/Joseph-333/HTML-CSS-Master-Course/tree/main/Section%206%20Omnifood%20Desktop%20Version
 
-**Project Link**: https://joseph-333.github.io/Omnifood-Desktop/
+**Project Link**: https://teal-klepon-b77fd5.netlify.app
 
 ***
 ### Section 7 Omnifood Responsive Version
 **Source Code**: https://github.com/Joseph-333/HTML-CSS-Master-Course/tree/main/Section%207%20Omnifood%20Responsive
 
-**Project Link**: https://joseph-333.github.io/Omnifood-Responsive-Project/
+**Project Link**: https://benevolent-dragon-c09f4a.netlify.app
 
 ***
 ### Section 8 Omnifood Optimized Version
